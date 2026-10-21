@@ -1,0 +1,9 @@
+[submodule "external/JUCE"]
+	path = external/JUCE
+	url = https://github.com/juce-framework/JUCE.git
+[submodule "external/World"]
+	path = external/World
+	url = https://github.com/mmorise/World
+[submodule "external/rnnoise"]
+	path = external/rnnoise
+	url = https://github.com/xiph/rnnoise.git

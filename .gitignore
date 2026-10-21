@@ -1,0 +1,7 @@
+build/
+out/
+.vs/
+*.user
+render_*/
+__pycache__/
+CLAUDE.local.md
